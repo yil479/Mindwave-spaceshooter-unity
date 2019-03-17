@@ -9,3 +9,5 @@ meditation control fire rate.
 eyeblink control movement speed
 
 Video demo: https://www.youtube.com/watch?v=WfXO7uRWzhI
+
+Team members: Yinhe Liu, Jianing Zhang, Huixuan Tan, Xiaoxun Zhu, Faraz Shaikh
